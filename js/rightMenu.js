@@ -1,5 +1,3 @@
-
-
 console.log(
     "Codes uses GPL Licence"
 )
